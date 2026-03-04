@@ -5,10 +5,7 @@ export const Ejemplo = () => {
 
         <>
             <form>
-                <label> Usuario</label>
-                <input>
-                <label>Contraseña</label>
-                <input>
+
 
             </form>
         </>
